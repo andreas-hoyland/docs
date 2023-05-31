@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "Den moderne oppslagstavlen",
   "logo": {
     "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
+    "light": "/logo/letters/infoskjermen.svg?1"
   },
   "favicon": "/favicon.png",
   "colors": {
@@ -13,13 +13,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "Logg inn",
+      "url": "https://app.infoskjermen.no"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "name": "Lag konto",
+    "url": "https://app.infoskjermen.no/signup"
   },
   "anchors": [
     {
@@ -40,7 +40,7 @@
   ],
   "navigation": [
     {
-      "group": "Home",
+      "group": "Hjem",
       "pages": ["introduction", "features"]
     },
     {
@@ -58,8 +58,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/infoskjermen",
+    "facebook": "https://facebook.com/infoskjermen",
+    "linkedin": "https://www.linkedin.com/company/infoskjermen"
   }
 }
