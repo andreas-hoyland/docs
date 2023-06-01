@@ -40,11 +40,11 @@
     },
     {
       "group": "Utstyr",
-      "pages": ["Utstyr og oppsett","connect", "online"]
+      "pages": ["hardware","connect", "online"]
     },
     {
       "group": "Administrasjon",
-      "pages": ["Konto og brukere","Abbonnement og fakturering", "Infoskjermen Nettverk"]
+      "pages": ["admin/account","admin/priceplans", "network"]
     }
   ],
   "footerSocials": {
